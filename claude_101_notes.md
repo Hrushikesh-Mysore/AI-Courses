@@ -1,5 +1,6 @@
-# Claude 101 – Condensed Notes
-
+# Claude 101 – Short Notes
+---
+- A comprehencive guide to use Claude AI.
 ---
 
 ## What is Claude?
