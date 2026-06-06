@@ -1,7 +1,8 @@
 # Claude 101 – Short Notes
 ---
-> [!Note]
-A comprehencive guide to use Claude AI.
+> [!WARNING]
+> This is a comprehensive guide for using Claude AI, created based on the Claude 101 course and intended for revision and learning purposes only. Completion of this guide does **not** guarantee certification, course completion, or any official credential from Anthropic or the course provider.
+
 ---
 
 ## What is Claude?
